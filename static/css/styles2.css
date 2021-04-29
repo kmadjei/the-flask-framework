@@ -1,3 +1,9 @@
 .col-md-5 img {
     width: 100%;
 }
+
+ul.flash li {
+    color: red;
+    background-color: red;
+    list-style: none;
+}
