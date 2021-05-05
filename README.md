@@ -26,7 +26,7 @@ The following are the features of the website:
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 - [Clean Blog - Bootstrap theme](https://startbootstrap.com/theme/clean-blog)
-    - The project uses **Clean Blog** [startboorstrap](https://startbootstrap.com/) to build the basic structure of the website.
+    - The project uses **Clean Blog** [startboorstrap](https://startbootstrap.com/) theme to build the basic structure of the website.
 
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
