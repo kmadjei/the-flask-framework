@@ -58,7 +58,7 @@ The project files has been uploaded to Github and deployed live on [Heroku](http
 ## Credits
 
 ### Content
-- The contents for this projects was provided by Code Institute with Tim Nelson leading the lessons.
+- The [contents](https://github.com/Code-Institute-Solutions/FlaskFramework/tree/master/03-FlaskAndData/05-iterating_over_our_json_data) for this projects was provided by Code Institute with Tim Nelson leading the lessons.
 
 ### Acknowledgements
 
